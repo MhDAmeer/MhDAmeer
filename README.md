@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MhDAmeer
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...Archis Academy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+HI...!
+Im Ameer,
+
+welcome to my profile...
 
 <!---
 MhDAmeer/MhDAmeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
